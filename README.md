@@ -111,6 +111,6 @@ nicsoria@gmail.com
 
 <div align="center">
 
-*"Technology should support operations—not define them."*
+*"Technology should support operations, not define them."*
 
 </div>
