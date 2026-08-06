@@ -5,7 +5,7 @@
 ### Operations Architect • Technical Training • Safety-Critical Systems • Autonomous Mobility
 
 <p align="center">
-  <img src="images/nrs-banner.png" alt="Nicholas Soria Banner" width="100%">
+  <img src="./nrs-banner.png" alt="Nicholas Soria Banner" width="100%">
 </p>
 
 > **Designing operational systems that reduce friction, improve readiness, and help people solve the problems that matter.**
