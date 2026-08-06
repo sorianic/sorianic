@@ -1,121 +1,85 @@
 # Nicholas Soria
 
-### Operations & Technical Training Leader
+### Operations • Technical Training • Safety-Critical Systems 
+
+> **Designing operational systems that reduce friction, improve readiness, and help people get back to solving the problems that matter.**
 
 ---
 
-I design operational systems that reduce friction, improve readiness, and give people more time to solve real problems.
+## About Me
 
-My approach starts with understanding the mission, the people doing the work, and how the process actually operates. Technology should support operations, not define them. The goal is to remove unnecessary busy work so people can focus on solving the problems that matter.
+I enjoy solving operational problems where people, processes, and technology intersect.
 
----
+My approach starts with understanding the mission, the people doing the work, and how information moves through an operation. Before introducing technology, I look for unnecessary complexity, disconnected workflows, repetitive tasks, and communication gaps that slow teams down.
 
-# 🚀 Featured Work
-
-## 🧠 [CTMS — Cognitive Traffic Management System](https://github.com/sorianic/CTMS)
-
-A research architecture for how autonomous vehicles can interpret human authority, preserve operational intent, communicate understanding, and coordinate safely in human-directed environments.
-
-**Focus:** Autonomous Systems • Human-Machine Coordination • Operational Authority • Safety Architecture
+I believe technology should support operations—not define them.
 
 ---
 
-## ⚙️ Operational Systems Design (OSD)
+# Featured Projects
 
-A practical framework for examining people, workflows, communication, ownership, operational friction, and the intentional use of technology.
-
-**Focus:** Process Improvement • Human-Centered Operations • Standardization • Continuous Improvement
-
----
-
-## ✈️ VATM — Navy ATC Training Management Application
-
-A concept for modernizing Navy air traffic control training through digital qualification tracking, readiness reporting, instructor management, and standardized workflows.
-
-**Focus:** Training Management • Readiness • Workflow Automation • Enterprise Reporting
+| Project | Description |
+|---------|-------------|
+| 🧠 **[CTMS – Cognitive Traffic Management System](https://github.com/sorianic/CTMS)** | Human-directed coordination architecture for autonomous mobility. |
+| ⚙️ **Operational Systems Design (OSD)** | A practical framework for improving operations through workflow analysis, standardization, and intentional technology. |
+| ✈️ **VATM – Navy ATC Training Management** | A concept for modernizing Navy air traffic control training, readiness, and qualification management. |
+| 🛡️ **AV Safety Intelligence System (SIR)** | Connecting incidents, corrective actions, regulations, and operational knowledge into a unified safety intelligence platform. |
+| 🚨 **AV Rider-Support Incident Command Framework** | A structured incident response and escalation model for autonomous vehicle operations. |
+| 🎓 **AV Operator Train-the-Trainer Program** | A scalable instructor development and certification framework for autonomous mobility. |
 
 ---
 
-## 🛡️ AV Safety Intelligence System (SIR)
-
-A concept connecting incident records, regulatory information, corrective actions, safety cases, and organizational learning into a single operational intelligence platform.
-
-**Focus:** Safety Analytics • Knowledge Graphs • CAPA • Organizational Learning
-
----
-
-## 🚨 AV Rider-Support Incident Command Framework
-
-A structured incident response model defining escalation, authority, communication, and operational decision-making within autonomous vehicle support operations.
-
-**Focus:** Incident Response • Remote Operations • Decision Authority • Communication
-
----
-
-## 🎓 AV Operator Train-the-Trainer Program
-
-A scalable instructor development framework covering classroom instruction, simulator training, on-road coaching, certification, and continuous standardization.
-
-**Focus:** Instructor Development • Technical Training • Competency Assessment • Program Governance
-
----
-
-# 🔨 Currently Building
+# Current Focus
 
 - Operational Systems Design (OSD)
-- CTMS documentation and architecture 
-- AI-enabled operational safety concepts
-- Enterprise training and readiness systems
-- Operational intelligence platforms for safety-critical environments
-
----
-
-# 🧩 How I Approach Problems
-
-- Understand the mission before choosing the technology.
-- Start where the work begins and follow the actual workflow.
-- Identify redundant work, disconnected systems, and unnecessary complexity.
-- Simplify before automating.
-- Standardize where it improves safety, clarity, and consistency.
-- Design with the people performing the work.
-- Measure whether the solution creates meaningful operational improvement.
-
----
-
-# 💼 Professional Background
-
-I bring more than 13 years of experience in U.S. Navy Air Traffic Control, operational leadership, technical training, qualification management, readiness, and process improvement.
-
-Today I continue building concepts and frameworks focused on:
-
-- Autonomous Mobility 
-- Technical Training
-- Operational Readiness
+- Autonomous Mobility
+- AI-Assisted Operations
+- Technical Training & Readiness
 - Safety-Critical Systems
 - Human Factors
-- AI-Assisted Operations
-- Program & Process Design
+- Process & Workflow Design
 
 ---
 
-# 🛠️ Skills
+# How I Approach Problems
 
-`Operations Management` • `Program Management` • `Technical Training` • `Safety-Critical Operations` • `Operational Readiness` • `Workflow Design` • `Training Systems Design` • `Human Factors` • `Incident Management` • `Requirements Development` • `Process Improvement` • `AI-Assisted Prototyping`
+I don't begin with software.
+
+I begin by asking:
+
+- What is the mission?
+- How does the work actually happen?
+- Where does information break down?
+- What creates unnecessary friction?
+- Can the process be simplified before it is automated?
+- Will technology genuinely improve safety, efficiency, or readiness?
+
+The objective is simple:
+
+> **Give people more time to solve real problems instead of managing the process.**
 
 ---
 
-# 🎓 Education
+# Professional Background
 
-Bachelor of Science in Business and Technology (Artificial Intelligence Concentration)  
-California Miramar University *(In Progress - expected Spring 2028)*
+I bring over 13 years of experience in U.S. Navy Air Traffic Control, operational leadership, technical training, qualification management, and readiness.
+
+Today I'm focused on applying those experiences to autonomous mobility, operational AI, technical training, and safety-critical systems through research, system architecture, and practical framework development.
 
 ---
 
-# 🤝 Connect
+# Education
+
+**Bachelor of Science – Business & Technology (Artificial Intelligence Concentration)**  
+California Miramar University *(Expected Spring 2028)*
+
+---
+
+# Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nic-soria-821543336
-- 📧 Email: Nicsoria@gmail.com 
+- 📧 Email: **nicsoria@gmail.com**
 
 ---
 
-> *"Technology should support operations, not define them."*
+> *"Technology should support operations—not define them."*
