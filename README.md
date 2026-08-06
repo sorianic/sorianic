@@ -2,106 +2,126 @@
 
 ### Operations & Technical Training Leader
 
-"I design operational systems that reduce friction, improve readiness, and give people more time to solve real problems."
+![Operations](https://img.shields.io/badge/Operations-Management-blue)
+![Training](https://img.shields.io/badge/Technical%20Training-green)
+![AI](https://img.shields.io/badge/AI-Systems-purple)
+![Safety](https://img.shields.io/badge/Safety-Critical-red)
+![Autonomous Mobility](https://img.shields.io/badge/Autonomous-Mobility-orange)
+
+---
+
+> **I design operational systems that reduce friction, improve readiness, and give people more time to solve real problems.**
 
 My approach starts with understanding the mission, the people doing the work, and how the process actually operates. Technology should support operations, not define them. The goal is to remove unnecessary busy work so people can focus on solving the problems that matter.
 
 ---
 
-## Featured Work
+# 🚀 Featured Work
 
-### [CTMS — Cognitive Traffic Management System](https://github.com/sorianic/CTMS)
+## 🧠 [CTMS — Cognitive Traffic Management System](https://github.com/sorianic/CTMS)
 
 A research architecture for how autonomous vehicles can interpret human authority, preserve operational intent, communicate understanding, and coordinate safely in human-directed environments.
 
-**Focus:** Autonomous systems, human-machine coordination, operational authority, safety architecture
+**Focus:** Autonomous Systems • Human-Machine Coordination • Operational Authority • Safety Architecture
 
 ---
 
-### Operational Systems Design
+## ⚙️ Operational Systems Design (OSD)
 
 A practical framework for examining people, workflows, communication, ownership, operational friction, and the intentional use of technology.
 
-**Focus:** Process improvement, human-centered operations, standardization, continuous improvement
+**Focus:** Process Improvement • Human-Centered Operations • Standardization • Continuous Improvement
 
 ---
 
-### VATM — Navy ATC Training Management Application
+## ✈️ VATM — Navy ATC Training Management Application
 
-A training and readiness management concept designed to reduce administrative workload, improve qualification visibility, standardize documentation, and support leadership decisions across Navy air traffic control facilities.
+A concept for modernizing Navy air traffic control training through digital qualification tracking, readiness reporting, instructor management, and standardized workflows.
 
-**Focus:** Training management, readiness, workflow automation, enterprise reporting
-
----
-
-### AV Safety Intelligence System
-
-A concept connecting incident records, safety cases, regulatory information, corrective actions, research, and trend analytics to help organizations learn from operational events.
-
-**Focus:** Safety analytics, knowledge graphs, CAPA, organizational learning
+**Focus:** Training Management • Readiness • Workflow Automation • Enterprise Reporting
 
 ---
 
-### AV Rider-Support Incident Command Framework
+## 🛡️ AV Safety Intelligence System (SIR)
 
-A structured severity classification, authority, escalation, communication, and after-action framework for autonomous-vehicle rider-support operations.
+A concept connecting incident records, regulatory information, corrective actions, safety cases, and organizational learning into a single operational intelligence platform.
 
-**Focus:** Incident response, remote support, decision authority, operational communication
-
----
-
-### AV Operator Train-the-Trainer Program
-
-A scalable instructor-development framework covering classroom, simulator, on-road instruction, certification, recurrent training, and continuous standardization.
-
-**Focus:** Instructor development, technical training, competency assessment, program governance
+**Focus:** Safety Analytics • Knowledge Graphs • CAPA • Organizational Learning
 
 ---
 
-## How I Approach Problems
+## 🚨 AV Rider-Support Incident Command Framework
+
+A structured incident response model defining escalation, authority, communication, and operational decision-making within autonomous vehicle support operations.
+
+**Focus:** Incident Response • Remote Operations • Decision Authority • Communication
+
+---
+
+## 🎓 AV Operator Train-the-Trainer Program
+
+A scalable instructor development framework covering classroom instruction, simulator training, on-road coaching, certification, and continuous standardization.
+
+**Focus:** Instructor Development • Technical Training • Competency Assessment • Program Governance
+
+---
+
+# 🔨 Currently Building
+
+- Operational Systems Design (OSD)
+- CTMS documentation and architecture
+- AI-enabled operational safety concepts
+- Enterprise training and readiness systems
+- Operational intelligence platforms for safety-critical environments
+
+---
+
+# 🧩 How I Approach Problems
 
 - Understand the mission before choosing the technology.
 - Start where the work begins and follow the actual workflow.
 - Identify redundant work, disconnected systems, and unnecessary complexity.
 - Simplify before automating.
-- Standardize where it improves clarity, safety, and consistency.
+- Standardize where it improves safety, clarity, and consistency.
 - Design with the people performing the work.
-- Measure whether the solution produces a meaningful operational improvement.
+- Measure whether the solution creates meaningful operational improvement.
 
 ---
 
-## Professional Background
+# 💼 Professional Background
 
-I bring more than 13 years of experience in U.S. Navy air traffic control, operational leadership, technical training, qualification management, readiness, and process improvement. I now support air traffic control training and readiness at NAS Lemoore. 
+I bring more than 12 years of experience in U.S. Navy Air Traffic Control, operational leadership, technical training, qualification management, readiness, and process improvement.
 
-My current work and independent projects explore the intersection of:
+Today I continue building concepts and frameworks focused on:
 
-- Autonomous vehicle operations
-- Technical training and readiness
-- Safety-critical systems
-- Operational AI
-- Human factors
-- Program and process design
-
----
-
-## Skills
-
-`Operations Management` · `Program Management` · `Technical Training` · `Safety-Critical Operations` · `Process Improvement` · `Training Systems Design` · `Workflow Architecture` · `Incident Management` · `Operational Readiness` · `Requirements Documentation` · `AI-Assisted Prototyping`
+- Autonomous Mobility
+- Technical Training
+- Operational Readiness
+- Safety-Critical Systems
+- Human Factors
+- AI-Assisted Operations
+- Program & Process Design
 
 ---
 
-## Education
+# 🛠️ Skills
 
-**Bachelor of Arts in Business and Technology — Artificial Intelligence Concentration**  
-California Miramar University · In progress (expected Spring 2028) 
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/nic-soria-821543336) · [Email](Nicsoria@gmail.com)
+`Operations Management` • `Program Management` • `Technical Training` • `Safety-Critical Operations` • `Operational Readiness` • `Workflow Design` • `Training Systems Design` • `Human Factors` • `Incident Management` • `Requirements Development` • `Process Improvement` • `AI-Assisted Prototyping`
 
 ---
 
-*Building safer, simpler, and more effective operational systems.*
+# 🎓 Education
+
+**Bachelor of Arts – Business Administration (Artificial Intelligence Concentration)**  
+California Miramar University *(In Progress)*
+
+---
+
+# 🤝 Connect
+
+- 💼 LinkedIn: ** https://www.linkedin.com/in/nic-soria-821543336 **
+- 📧 Email: ** Nicsoria@gmail.com **
+
+---
+
+> *"Technology should support operations, not define them."*
