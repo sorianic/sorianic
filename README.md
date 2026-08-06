@@ -63,7 +63,7 @@ A scalable instructor development framework covering classroom instruction, simu
 # 🔨 Currently Building
 
 - Operational Systems Design (OSD)
-- CTMS documentation and architecture
+- CTMS documentation and architecture 
 - AI-enabled operational safety concepts
 - Enterprise training and readiness systems
 - Operational intelligence platforms for safety-critical environments
@@ -84,11 +84,11 @@ A scalable instructor development framework covering classroom instruction, simu
 
 # 💼 Professional Background
 
-I bring more than 12 years of experience in U.S. Navy Air Traffic Control, operational leadership, technical training, qualification management, readiness, and process improvement.
+I bring more than 13 years of experience in U.S. Navy Air Traffic Control, operational leadership, technical training, qualification management, readiness, and process improvement.
 
 Today I continue building concepts and frameworks focused on:
 
-- Autonomous Mobility
+- Autonomous Mobility 
 - Technical Training
 - Operational Readiness
 - Safety-Critical Systems
@@ -106,15 +106,15 @@ Today I continue building concepts and frameworks focused on:
 
 # 🎓 Education
 
-**Bachelor of Arts – Business Administration (Artificial Intelligence Concentration)**  
-California Miramar University *(In Progress)*
+Bachelor of Science in Business and Technology (Artificial Intelligence Concentration)  
+California Miramar University *(In Progress - expected Spring 2028)*
 
 ---
 
 # 🤝 Connect
 
-- 💼 LinkedIn: ** https://www.linkedin.com/in/nic-soria-821543336 **
-- 📧 Email: ** Nicsoria@gmail.com **
+- 💼 LinkedIn: https://www.linkedin.com/in/nic-soria-821543336
+- 📧 Email: Nicsoria@gmail.com 
 
 ---
 
