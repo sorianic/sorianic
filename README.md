@@ -4,7 +4,7 @@
 
 ---
 
-> **I design operational systems that reduce friction, improve readiness, and give people more time to solve real problems.**
+I design operational systems that reduce friction, improve readiness, and give people more time to solve real problems.
 
 My approach starts with understanding the mission, the people doing the work, and how the process actually operates. Technology should support operations, not define them. The goal is to remove unnecessary busy work so people can focus on solving the problems that matter.
 
