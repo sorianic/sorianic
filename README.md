@@ -50,7 +50,7 @@ While I am not a software engineer, I use GitHub to organize ideas, document res
 
 # Design Philosophy
 
-> Technology should support operations—not define them.
+> Technology should support operations, not define them.
 
 Every project begins with the same questions:
 
