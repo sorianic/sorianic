@@ -1,14 +1,7 @@
 <div align="center">
 
-# Nicholas Soria
-
-### Operations Architect • Technical Training • Safety-Critical Systems • Autonomous Mobility
-
 <p align="center">
   <img src="./nrs-banner.png" alt="Nicholas Soria Banner" width="100%">
-</p>
-
-> **Designing operational systems that reduce friction, improve readiness, and help people solve the problems that matter.**
 
 </div>
 
@@ -24,16 +17,22 @@ My current focus is applying those principles to autonomous mobility, technical 
 
 ---
 
+## About This Portfolio
+
+This GitHub is not a collection of production software. It is a portfolio of operational concepts, system architectures, and practical frameworks developed from experience in safety-critical operations.
+
+While I am not a software engineer, I use GitHub to organize ideas, document research, prototype system designs, and demonstrate how technology can be applied intentionally to solve real operational problems.
+
 # Featured Projects
 
 | Project | Description |
 |:---|:---|
-| 🧠 **[CTMS – Cognitive Traffic Management System](https://github.com/sorianic/CTMS)** | Human-directed coordination architecture for autonomous mobility. |
-| ⚙️ **Operational Systems Design (OSD)** | A practical framework for understanding, improving, and modernizing operational systems. |
-| ✈️ **VATM – Navy ATC Training Management** | Modernizing Navy ATC qualification, readiness, and training management. |
-| 🛡️ **Safety Intelligence System (SIR)** | Connecting operational knowledge, incidents, regulations, and corrective actions. |
-| 🚨 **AV Rider-Support Incident Command** | A structured incident management and escalation framework for autonomous mobility. |
-| 🎓 **AV Operator Train-the-Trainer** | Instructor development and standardization for autonomous vehicle operations. |
+| 🧠 **[CTMS – Cognitive Traffic Management System](https://github.com/sorianic/CTMS)** | A living research project documenting the architecture, concepts, and design principles behind safer human-directed autonomous mobility. |
+| ⚙️ **Operational Systems Design (OSD)** | A practical framework for understanding, improving, and modernizing operational systems. _Documentation in Progress_|
+| ✈️ **VATM – ATC Training Management** | Modernizing ATC qualification, readiness, and training management. _Developed for Navy ATC operational training. Public details are limited._|
+| 🛡️ **Safety Intelligence System (SIR)** | Connecting operational knowledge, incidents, regulations, and corrective actions. _Coming Soon_ |
+| 🚨 **AV Rider-Support Incident Command** | A structured incident management and escalation framework for autonomous mobility. _Coming Soon_|
+| 🎓 **AV Operator Train-the-Trainer** | Instructor development and standardization for autonomous vehicle operations. _Coming Soon_|
 
 ---
 
