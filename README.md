@@ -87,6 +87,18 @@ California Miramar University *(Expected Spring 2028)*
 
 ---
 
+## Side Quest
+
+### 🐾 Paw & Hearth
+
+A passion project my wife and I are building to support animal rescues and help connect people with animals in need.
+
+While most of my work focuses on operational systems and safety-critical environments, Paw & Hearth lets me apply those same design principles to something we both care deeply about.
+
+*Sometimes solving problems just means helping a dog find a home.*
+
+---
+
 # Connect
 
 💼 **LinkedIn**  
