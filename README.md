@@ -1,51 +1,57 @@
+<div align="center">
+
 # Nicholas Soria
 
-### Operations • Technical Training • Safety-Critical Systems 
+### Operations Architect • Technical Training • Safety-Critical Systems • Autonomous Mobility
 
-> **Designing operational systems that reduce friction, improve readiness, and help people get back to solving the problems that matter.**
+<img src="images/nrs-banner.png" alt="Nicholas Soria Banner" width="100%">
+
+> **Designing operational systems that reduce friction, improve readiness, and help people solve the problems that matter.**
+
+</div>
 
 ---
 
-## About Me
+# About
 
-I enjoy solving operational problems where people, processes, and technology intersect.
+I enjoy solving complex operational problems where people, processes, and technology intersect.
 
-My approach starts with understanding the mission, the people doing the work, and how information moves through an operation. Before introducing technology, I look for unnecessary complexity, disconnected workflows, repetitive tasks, and communication gaps that slow teams down.
+My work starts by understanding the mission, the people performing it, and how information moves through an organization. Rather than beginning with software, I look for opportunities to simplify workflows, reduce unnecessary friction, improve communication, and design systems that allow people to spend more time solving problems instead of managing processes.
 
-I believe technology should support operations—not define them.
+My current focus is applying those principles to autonomous mobility, technical training, operational AI, and safety-critical environments.
 
 ---
 
 # Featured Projects
 
 | Project | Description |
-|---------|-------------|
+|:---|:---|
 | 🧠 **[CTMS – Cognitive Traffic Management System](https://github.com/sorianic/CTMS)** | Human-directed coordination architecture for autonomous mobility. |
-| ⚙️ **Operational Systems Design (OSD)** | A practical framework for improving operations through workflow analysis, standardization, and intentional technology. |
-| ✈️ **VATM – Navy ATC Training Management** | A concept for modernizing Navy air traffic control training, readiness, and qualification management. |
-| 🛡️ **AV Safety Intelligence System (SIR)** | Connecting incidents, corrective actions, regulations, and operational knowledge into a unified safety intelligence platform. |
-| 🚨 **AV Rider-Support Incident Command Framework** | A structured incident response and escalation model for autonomous vehicle operations. |
-| 🎓 **AV Operator Train-the-Trainer Program** | A scalable instructor development and certification framework for autonomous mobility. |
+| ⚙️ **Operational Systems Design (OSD)** | A practical framework for understanding, improving, and modernizing operational systems. |
+| ✈️ **VATM – Navy ATC Training Management** | Modernizing Navy ATC qualification, readiness, and training management. |
+| 🛡️ **Safety Intelligence System (SIR)** | Connecting operational knowledge, incidents, regulations, and corrective actions. |
+| 🚨 **AV Rider-Support Incident Command** | A structured incident management and escalation framework for autonomous mobility. |
+| 🎓 **AV Operator Train-the-Trainer** | Instructor development and standardization for autonomous vehicle operations. |
 
 ---
 
 # Current Focus
 
-- Operational Systems Design (OSD)
+- Operational Systems Design
 - Autonomous Mobility
-- AI-Assisted Operations
-- Technical Training & Readiness
+- Operational AI
+- Technical Training
 - Safety-Critical Systems
 - Human Factors
-- Process & Workflow Design
+- Process Improvement
 
 ---
 
-# How I Approach Problems
+# Design Philosophy
 
-I don't begin with software.
+> Technology should support operations—not define them.
 
-I begin by asking:
+Every project begins with the same questions:
 
 - What is the mission?
 - How does the work actually happen?
@@ -56,30 +62,42 @@ I begin by asking:
 
 The objective is simple:
 
-> **Give people more time to solve real problems instead of managing the process.**
+> **Give people more time to solve real problems.**
 
 ---
 
 # Professional Background
 
-I bring over 13 years of experience in U.S. Navy Air Traffic Control, operational leadership, technical training, qualification management, and readiness.
-
-Today I'm focused on applying those experiences to autonomous mobility, operational AI, technical training, and safety-critical systems through research, system architecture, and practical framework development.
+- 13+ years in U.S. Navy Air Traffic Control
+- Chief Petty Officer
+- Technical Training & Qualification Management
+- Operational Readiness
+- Safety Investigations, Mishap Analysis & Risk Management
+- Process Improvement
+- Systems Thinking
+- AI-Assisted Operational Design
 
 ---
 
 # Education
 
-**Bachelor of Science – Business & Technology (Artificial Intelligence Concentration)**  
+**Bachelor of Science – Business & Technology (Artificial Intelligence)**  
 California Miramar University *(Expected Spring 2028)*
 
 ---
 
 # Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/nic-soria-821543336
-- 📧 Email: **nicsoria@gmail.com**
+💼 **LinkedIn**  
+https://www.linkedin.com/in/nic-soria-821543336
+
+📧 **Email**  
+nicsoria@gmail.com
 
 ---
 
-> *"Technology should support operations—not define them."*
+<div align="center">
+
+*"Technology should support operations—not define them."*
+
+</div>
