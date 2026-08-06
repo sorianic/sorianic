@@ -2,12 +2,6 @@
 
 ### Operations & Technical Training Leader
 
-![Operations](https://img.shields.io/badge/Operations-Management-blue)
-![Training](https://img.shields.io/badge/Technical%20Training-green)
-![AI](https://img.shields.io/badge/AI-Systems-purple)
-![Safety](https://img.shields.io/badge/Safety-Critical-red)
-![Autonomous Mobility](https://img.shields.io/badge/Autonomous-Mobility-orange)
-
 ---
 
 > **I design operational systems that reduce friction, improve readiness, and give people more time to solve real problems.**
