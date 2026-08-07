@@ -21,7 +21,7 @@ My current focus is applying those principles to autonomous mobility, technical 
 
 This GitHub is not a collection of production software. It is a portfolio of operational concepts, system architectures, and practical frameworks developed from experience in safety-critical operations.
 
-While I am not a software engineer, I use GitHub to organize ideas, document research, prototype system designs, and demonstrate how technology can be applied intentionally to solve real operational problems.
+While I am not a software engineer, I am using this to organize ideas, document research, prototype system designs, and demonstrate how technology can be applied intentionally to solve real operational problems.
 
 # Featured Projects
 
@@ -82,7 +82,7 @@ The objective is simple:
 
 # Education
 
-**Bachelor of Science – Business & Technology (Artificial Intelligence)**  
+**Bachelor of Science – Business & Technology (AI Concentration)**  
 California Miramar University *(Expected Spring 2028)*
 
 ---
@@ -91,11 +91,9 @@ California Miramar University *(Expected Spring 2028)*
 
 ### 🐾 Paw & Hearth
 
-A passion project my wife and I are building to support animal rescues and help connect people with animals in need.
+A passion project my wife and I are building to support animal rescues, shelters, fosters, etc. to help connect people with animals in need.
 
-While most of my work focuses on operational systems and safety-critical environments, Paw & Hearth lets me apply those same design principles to something we both care deeply about.
-
-*Sometimes solving problems just means helping a dog find a home.*
+Paw & Hearth lets me apply those same design principles to something we both care deeply about. 
 
 ---
 
