@@ -13,7 +13,7 @@ I enjoy solving complex operational problems where people, processes, and techno
 
 My work starts by understanding the mission, the people performing it, and how information moves through an organization. Rather than beginning with software, I look for opportunities to simplify workflows, reduce unnecessary friction, improve communication, and design systems that allow people to spend more time solving problems instead of managing processes.
 
-My current focus is applying those principles to autonomous mobility, technical training, operational AI, and safety-critical environments.
+My current focus is the human and operational layer of autonomous systems: how people are trained, qualified, supported, and kept ready as increasingly capable technology enters safety-critical operations.
 
 ---
 
@@ -26,13 +26,13 @@ While I am not a software engineer, I am using this to organize ideas, document 
 # Featured Projects
 
 | Project | Description |
-|:---|:---|
-| 🧠 **[CTMS – Cognitive Traffic Management System](https://github.com/sorianic/CTMS)** | A living research project documenting the architecture, concepts, and design principles behind safer human-directed autonomous mobility. |
-| ⚙️ **[Operational Systems Design (OSD)](https://github.com/sorianic/Operational-Systems-Design)** | A practical framework for understanding operational friction and designing simpler, safer, and more effective systems around the people doing the work. _Documentation in Development_|
-| ✈️ **VATM – ATC Training Management** | Modernizing ATC qualification, readiness, and training management. _Developed for Navy ATC operational training. Public details are limited._|
-| 🛡️ **[AV Safety Intelligence System (SIR)](https://github.com/sorianic/AV-Safety-Intelligence-System)** | A proof-of-concept connecting incidents, safety knowledge, corrective actions, and analytics to support organizational learning. **[Live Prototype](https://sorianic.github.io/AV-Safety-Intelligence-System/)** |
-| 🚨 **[AV Incident Command Simulator](https://github.com/sorianic/AV-Incident-Command-Simulator)** | Scenario-based training concept for AV incident classification, escalation, communication, and command decision-making. |
-| 🎓 **AV Operator Train-the-Trainer** | Instructor development and standardization for autonomous vehicle operations. _Coming Soon_|
+| --- | --- |
+| 🧠 [**HARP – Human-Autonomy Readiness Protocol**](https://github.com/sorianic/HARP) | A human-readiness architecture for safety-critical autonomous systems, connecting scenario performance, competency evidence, individual readiness, and organizational coverage. [**Live Prototype**](https://sorianic.github.io/HARP/) |
+| 🚦 [**CTMS – Cognitive Traffic Management System**](https://github.com/sorianic/CTMS) | A living research project documenting the architecture, concepts, and design principles behind safer human-directed autonomous mobility. |
+| ⚙️ [**Operational Systems Design (OSD)**](https://github.com/sorianic/Operational-Systems-Design) | A practical framework for identifying operational friction and designing simpler, safer, and more effective systems around the people doing the work. |
+| 🛡️ [**AV Safety Intelligence System (SIR)**](https://github.com/sorianic/AV-Safety-Intelligence-System) | A proof-of-concept connecting incidents, safety knowledge, corrective actions, and analytics to support organizational learning. [**Live Prototype**](https://sorianic.github.io/AV-Safety-Intelligence-System/) |
+| 🚨 [**AV Incident Command Simulator**](https://github.com/sorianic/AV-Incident-Command-Simulator) | A scenario-based training concept for AV incident classification, escalation, communication, and command decision-making. |
+| ✈️ **VATM – ATC Training Management** | Modernizing ATC qualification, proficiency, readiness, and training management. *Developed for Navy ATC operational training. Public details are intentionally limited.* |
 
 ---
 
