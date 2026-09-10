@@ -12,29 +12,42 @@ I apply lessons from high-reliability operations to problems involving human-aut
 
 ---
 
-# Current Focus
+Current Focus
 
 Autonomy does not eliminate the operational ecosystem around a system.
 
 It changes it.
 
-My portfolio currently explores three different layers of that problem:
+My portfolio explores several parts of that ecosystem, from introducing autonomous systems into new markets to preparing the people, processes, and organizations responsible for supporting them.
 
-```text
                          AUTONOMOUS OPERATIONS
                                   │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-        MARKET ENTRY        HUMAN READINESS     OPERATIONAL SUPPORT
-             │                    │                    │
-           AVCLP                 HARP                 VORA
-             │                    │                    │
-             └────────────────────┼────────────────────┘
+        ┌─────────────┬───────────┼───────────┬─────────────┐
+        │             │           │           │             │
+   MARKET ENTRY    READINESS   INCIDENTS   TRAINING    VENDOR OPS
+        │             │           │           │             │
+      AVCLP           HARP         SIR      AV SIM          VORA
+        │             │           │           │             │
+        └─────────────┴───────────┼───────────┴─────────────┘
                                   │
                        SAFER AUTONOMY AT SCALE
-```
 
-These projects are independent concepts developed from an operations and workforce-readiness perspective.
+What each project explores
+
+* AVCLP — Autonomous Vehicle City Launch Playbook
+    A framework for approaching autonomous vehicle deployment as an operational ecosystem involving cities, communities, infrastructure, education, and local stakeholders.
+* HARP — Human-Autonomy Readiness Protocol
+    A framework for evaluating whether humans responsible for supervising or supporting autonomous systems are trained, qualified, current, and ready to intervene when needed.
+* SIR — Safety Incident Registry
+    A structured approach to capturing, classifying, and learning from autonomous-system safety incidents and operational events.
+* AV Incident Command Simulator
+    An interactive training concept for practicing decision-making, escalation, communication, and incident response in autonomous-vehicle operations.
+* VORA — Vendor Operations Readiness Assurance
+    A framework for evaluating and maintaining the operational readiness of third-party vendors supporting autonomous-vehicle operations.
+
+These are independent portfolio projects developed from an operations, safety, training, and workforce-readiness perspective.
+
+They are not production systems and do not represent the internal tools, processes, or proprietary information of any autonomous-vehicle company.
 
 ---
 
