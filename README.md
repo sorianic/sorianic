@@ -6,240 +6,234 @@ I am a U.S. Navy Chief Petty Officer (E-7) veteran and operations professional w
 
 My current work explores a question that becomes increasingly important as autonomous systems scale:
 
-> **As machines take on more responsibility, how do we ensure the humans and organizations surrounding them are ready when they are required to act?**
+> **As machines take on more responsibility, how do we ensure the people, organizations, and communities surrounding them are ready when they are required to act?**
 
-I apply lessons from high-reliability operations to problems involving **human-autonomy interaction, workforce readiness, vendor assurance, training effectiveness, operational safety, and Physical AI.**
+I apply lessons from high-reliability operations to problems involving **human-autonomy interaction, workforce readiness, operational support, market deployment, training effectiveness, and safety-critical systems.**
 
 ---
 
 # Current Focus
 
-Autonomy does not eliminate human involvement. It changes **where humans enter the system, what they are responsible for, and how their readiness should be measured.**
+Autonomy does not eliminate the operational ecosystem around a system.
 
-My portfolio explores different parts of that problem:
+It changes it.
+
+My portfolio currently explores three different layers of that problem:
 
 ```text
-                    AUTONOMOUS OPERATIONS
-                            │
-             ┌──────────────┴──────────────┐
-             │                             │
-      Human Supervision              Operational Support
-       & Intervention                & External Workforce
-             │                             │
-             ▼                             ▼
-           HARP                          VORA
-             │                             │
-             └──────────────┬──────────────┘
-                            │
-                            ▼
-                  Operational Performance
-                            │
-                  ┌─────────┴─────────┐
-                  │                   │
-                  ▼                   ▼
-             Safety Signals     Abnormal Events
-                  │                   │
-                  ▼                   ▼
-          Safety Intelligence    Incident Command
-                  │                   │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                 Learning & Improvement
+                         AUTONOMOUS OPERATIONS
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+        MARKET ENTRY        HUMAN READINESS     OPERATIONAL SUPPORT
+             │                    │                    │
+           AVCLP                 HARP                 VORA
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  │
+                       SAFER AUTONOMY AT SCALE
 ```
+
+These projects are independent concepts developed from an operations and workforce-readiness perspective.
 
 ---
 
 # Flagship Projects
 
-## HARP
-### Human-Autonomy Readiness Protocol
+## AV City Launch Playbook (AVCLP)
 
-**An operational framework for measuring human readiness in safety-critical autonomous systems.**
+### How do you prepare a city and its local ecosystem for autonomous operations?
 
-HARP explores how organizations could train, qualify, monitor, and continuously evaluate the humans responsible for supervising and supporting increasingly autonomous systems.
+**AVCLP** is an independent framework exploring how autonomous vehicle operators could approach new-market entry through operational readiness, local partnerships, workforce development, public safety, accessibility, and community engagement.
 
-Initial areas of exploration include:
+Instead of viewing a new market only as a deployment problem, AVCLP asks what happens when the surrounding ecosystem becomes part of launch readiness.
 
-- Remote assistance readiness
-- Human intervention and escalation
-- Qualification and currency
-- Fatigue and human performance
-- Shift and crew readiness
-- Event review
-- Continuous evaluation
-- Operational readiness
+The framework follows:
 
-> **Autonomy doesn't eliminate humans. It changes where humans enter the system. HARP measures whether they're ready when that moment arrives.**
+**DISCOVER → MAP → PARTNER → INTRODUCE → VERIFY → DEPLOY → MEASURE → IMPROVE**
 
-[**Explore HARP →**](https://github.com/sorianic/HARP)
+The repository includes a complete fictional deployment scenario for **Redwood Metro**, including:
+
+- Market readiness assessment
+- Stakeholder ecosystem mapping
+- Partnership action planning
+- Public-safety preparation
+- Workforce development
+- Accessibility participation
+- Community introduction
+- Launch decision logic
+- Phased deployment
+- 90-day market integration review
+
+### Interactive Prototype
+
+**[Launch the Redwood Metro Market Readiness Dashboard](https://sorianic.github.io/AV-City-Launch-Playbook/prototype/)**
+
+The interactive demonstration shows Redwood Metro progressing through:
+
+**49% T-180 → 80% T-60 → 90% T-30**
+
+and demonstrates how unresolved readiness gaps affect **GO / CONDITIONAL GO / NO-GO** decision logic.
+
+**[Explore AV City Launch Playbook →](https://github.com/sorianic/AV-City-Launch-Playbook)**
 
 ---
 
-## VORA
-### Vendor Operational Readiness & Assurance
+## Human-Autonomy Readiness Protocol (HARP)
 
-**An operational assurance concept for third-party workforces supporting safety-critical autonomous vehicle operations.**
+### Are the humans surrounding autonomous systems ready when autonomy needs them?
 
-VORA asks a related operational question:
+**HARP** explores operational readiness for people who supervise, support, or intervene in safety-critical autonomous systems.
 
-> **Can an AV organization verify that its external workforce is actually qualified, current, procedurally aligned, and ready to perform the mission?**
+The core idea:
 
-VORA connects:
+> **Autonomy doesn't eliminate humans. It changes where humans enter the system.**
 
-```text
-AV Company Standard
-        ↓
-Vendor Training
-        ↓
-Worker Qualification
-        ↓
-Operational Readiness Gate
-        ↓
-Mission Assignment
-        ↓
-Operational Performance
-        ↓
-Deficiency / Corrective Action
-        ↓
-Re-evaluation
-        ↓
-Readiness Restored
-```
+HARP focuses on questions such as:
 
-The v0.1 interactive prototype demonstrates executive readiness monitoring, vendor-level assurance, worker qualification gating, and closed-loop deficiency management.
+- Remote assistance readiness
+- Human intervention
+- Qualification and recurrent training
+- Shift and crew readiness
+- Fatigue considerations
+- Safety-critical escalation
+- Event review
+- Policy and compliance
+- Auditability
 
-[**Explore VORA →**](https://github.com/sorianic/VORA)
+The project also explores **Human-Autonomy eXchange (HAX)** as a way to visualize where responsibility transitions between autonomous systems and human operators.
 
-[**Launch the Interactive Prototype →**](https://sorianic.github.io/VORA/)
+**[Explore HARP →](https://github.com/sorianic/HARP)**
+
+---
+
+## Vendor & Operational Readiness Architecture (VORA)
+
+### Are the external people and organizations supporting autonomous operations actually ready?
+
+Autonomous systems depend on more than the people directly supervising the technology.
+
+They may also depend on external operational partners, vendors, contractors, service providers, and support organizations.
+
+**VORA** explores how those relationships could be evaluated through structured operational readiness rather than treating vendor status as a simple contract or onboarding question.
+
+Areas of focus include:
+
+- Workforce qualification
+- Training status
+- Operational readiness
+- Compliance
+- Performance visibility
+- Risk identification
+- Corrective actions
+- Vendor oversight
+- Leadership reporting
+
+**[Explore VORA →](https://github.com/sorianic/VORA)**
+
+---
+
+# The Bigger Picture
+
+The projects approach autonomy from different operational layers:
+
+| Project | Primary Question | Layer |
+|---|---|---|
+| **AVCLP** | Is the market and surrounding ecosystem prepared for deployment? | Market Entry |
+| **HARP** | Are humans ready when autonomy requires intervention or support? | Human Readiness |
+| **VORA** | Are external operational partners capable and ready? | Operational Support |
+
+Together they explore a broader question:
+
+> **How do we operationalize autonomy safely at scale?**
+
+I am particularly interested in the space between advanced technology and real-world operations, where training, people, procedures, partnerships, readiness, and accountability still determine whether a system succeeds.
 
 ---
 
 # Additional Projects
 
-## AV Safety Intelligence System
+My GitHub also includes smaller operational prototypes and concepts covering:
 
-Explores how operational safety signals, events, trends, and corrective actions could be structured to improve safety visibility and decision-making in autonomous vehicle operations.
+- Training management
+- Safety and incident reporting
+- Corrective and preventive action tracking
+- Autonomous vehicle incident command
+- Operational readiness
+- Safety architecture
 
-[**Explore AV Safety Intelligence System →**](https://github.com/sorianic/AV-Safety-Intelligence-System)
+### CTMS
 
----
+**Cognitive Traffic Management System (CTMS)** is a broader autonomous-vehicle safety architecture concept currently kept private while the framework continues to develop.
 
-## AV Incident Command Simulator
+### Paw & Hearth
 
-A scenario-based prototype exploring human decision-making, escalation, and cross-functional coordination during abnormal autonomous vehicle operations.
+Also lurking in the background is **Paw & Hearth**, currently operating in stealth mode.
 
-[**Explore AV Incident Command Simulator →**](https://github.com/sorianic/AV-Incident-Command-Simulator)
+The competitors have not been informed.
 
----
-
-## Operational Systems Design
-
-Explores structured approaches to designing operational workflows, controls, readiness mechanisms, and human decision points in complex operational environments.
-
-[**Explore Operational Systems Design →**](https://github.com/sorianic/Operational-Systems-Design)
-
----
-
-## Paw and Hearth 🐾
-
-**The portfolio wildcard.**
-
-A pet-focused project currently being developed privately.
-
-Consider it the portfolio's **extremely low-stakes stealth startup** — considerably fewer autonomous vehicles, considerably more animals.
-
-More eventually.
+Neither have the animals.
 
 ---
 
-# Where This Comes From
+# Background
 
-My approach to autonomous systems comes from more than a decade working in **high-reliability air traffic control environments**.
+### U.S. Navy / Air Traffic Control
 
-My background includes:
+I spent 12 years in the U.S. Navy as an Air Traffic Controller and advanced to **Chief Petty Officer (E-7)**.
 
-- U.S. Navy Air Traffic Control
-- Chief Petty Officer (E-7) leadership
+My experience includes:
+
+- Safety-critical operations
+- Air traffic control
 - Training program management
-- Controller qualification and certification
-- Workforce readiness
-- Safety and procedural compliance
-- Training standardization
-- Operational scheduling
-- Readiness reporting
-- Audit preparation
+- Controller qualification
+- Workforce scheduling
+- Operational readiness
+- Compliance and standardization
+- Leadership and supervision
+- Performance reporting
 - Process improvement
-- Cross-functional operational coordination
 
-In safety-critical operations, completing training does not automatically make someone operationally ready.
-
-**Qualification, currency, procedural knowledge, demonstrated performance, human factors, and continuous evaluation all matter.**
-
-That principle is the foundation behind much of the work in this portfolio.
-
----
-
-# What I'm Exploring
-
-**Human + Autonomy**  
-How should organizations prepare and evaluate humans responsible for supervising increasingly autonomous systems?
-
-**Operational Readiness**  
-How can readiness become a measurable operational state instead of a collection of disconnected records?
-
-**Vendor Assurance**  
-How can organizations maintain qualification, safety, quality, and procedural standards when critical work is performed by external partners?
-
-**Training Effectiveness**  
-How do we move beyond measuring whether training was completed and determine whether it produced operational competence?
-
-**Operational Learning**  
-How should incidents, deficiencies, and performance data feed back into training, procedures, qualifications, and system design?
-
-**Physical AI Operations**  
-What operational infrastructure will be required as autonomous vehicles, robotics, drones, and other intelligent physical systems scale?
+I currently work in Air Traffic Control training production, supporting controller training, qualification, readiness, and operational visibility.
 
 ---
 
 # Education
 
-**Bachelor of Science in Business & Technology**  
-**Concentration: Artificial Intelligence**  
-California Miramar University
+Currently pursuing a **Bachelor of Science in Business & Technology with a concentration in Artificial Intelligence** at California Miramar University.
+
+My interest in AI is primarily operational:
+
+**How do organizations safely integrate increasingly capable systems into environments where people, procedures, training, and accountability still matter?**
 
 ---
 
-# A Note About the Code
+# What I'm Interested In
 
-I am an **operations and training professional, not a software engineer**.
+I am particularly interested in work involving:
 
-The prototypes in this portfolio are built to make operational concepts tangible, demonstrate workflows, explore system requirements, and communicate ideas that would normally exist only in documents or diagrams.
+- Autonomous vehicle operations
+- Autonomous systems / Physical AI
+- Operational readiness
+- Training and workforce development
+- Safety operations
+- Deployment and market readiness
+- Human-autonomy interaction
+- Program management
+- Operational enablement
+- Process and systems improvement
 
-My focus is:
+My goal is not to position myself as a software engineer.
 
-> **Operational Problem → Requirements → Workflow → Human Factors → System Concept**
+I build these projects to demonstrate how I **structure operational problems, identify dependencies, design processes, and translate high-reliability operating experience into emerging technology environments.**
 
 ---
 
 # Connect
 
-**LinkedIn:** [Nicholas Soria](https://www.linkedin.com/in/nic-soria-821543336)
+**LinkedIn:** [linkedin.com/in/nic-soria-821543336](https://www.linkedin.com/in/nic-soria-821543336)
 
 ---
 
-# Portfolio Notice
-
-These repositories are independent educational and professional portfolio projects.
-
-Unless explicitly stated otherwise:
-
-- Projects are not affiliated with or endorsed by any autonomous vehicle company, technology company, government organization, or employer.
-- Demonstration organizations, personnel, events, and operational data are fictional or synthetic.
-- Projects do not reproduce proprietary internal systems or processes.
-- No confidential, classified, controlled, or non-public employer information is included.
-- Concepts are based on general professional experience, independent research, and publicly available information.
-
----
-
-### Building operational systems for the humans and organizations surrounding autonomy.
+*All autonomous-systems projects shown here are independent portfolio concepts developed using public information, synthetic examples, and original operational frameworks. They do not represent the internal systems, procedures, data, or intellectual property of any autonomous vehicle operator, technology company, government agency, or other organization.*
