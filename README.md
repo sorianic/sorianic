@@ -8,7 +8,7 @@ My current work explores a question that becomes increasingly important as auton
 
 > **As machines take on more responsibility, how do we ensure the people, organizations, and communities surrounding them are ready when they are required to act?**
 
-I apply lessons from high-reliability operations to problems involving **human-autonomy interaction, workforce readiness, operational support, market deployment, training effectiveness, and safety-critical systems.**
+I apply lessons from high-reliability operations to problems involving human-autonomy interaction, workforce readiness, operational support, market deployment, training effectiveness, and safety-critical systems.
 
 ---
 
@@ -44,7 +44,7 @@ These projects are independent concepts developed from an operations and workfor
 
 ### How do you prepare a city and its local ecosystem for autonomous operations?
 
-**AVCLP** is an independent framework exploring how autonomous vehicle operators could approach new-market entry through operational readiness, local partnerships, workforce development, public safety, accessibility, and community engagement.
+**AVCLP** is an independent framework exploring how autonomous vehicle operators could proactively approach new-market entry through operational readiness, local partnerships, workforce development, public safety, accessibility, and community engagement.
 
 Instead of viewing a new market only as a deployment problem, AVCLP asks what happens when the surrounding ecosystem becomes part of launch readiness.
 
@@ -226,7 +226,7 @@ I am particularly interested in work involving:
 
 My goal is not to position myself as a software engineer.
 
-I build these projects to demonstrate how I **structure operational problems, identify dependencies, design processes, and translate high-reliability operating experience into emerging technology environments.**
+I build these projects to demonstrate how I structure operational problems, identify dependencies, design processes, and translate high-reliability operating experience into emerging technology environments.
 
 ---
 
