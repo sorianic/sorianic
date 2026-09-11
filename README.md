@@ -12,7 +12,7 @@ I apply lessons from high-reliability operations to problems involving human-aut
 
 ---
 
-Current Focus
+**Current Focus**
 
 Autonomy does not eliminate the operational ecosystem around a system.
 
@@ -20,32 +20,46 @@ It changes it.
 
 My portfolio explores several parts of that ecosystem, from introducing autonomous systems into new markets to preparing the people, processes, and organizations responsible for supporting them.
 
+```text
                          AUTONOMOUS OPERATIONS
                                   │
-        ┌─────────────┬───────────┼───────────┬─────────────┐
-        │             │           │           │             │
-   MARKET ENTRY    READINESS   INCIDENTS   TRAINING    VENDOR OPS
-        │             │           │           │             │
-      AVCLP           HARP         SIR      AV SIM          VORA
-        │             │           │           │             │
-        └─────────────┴───────────┼───────────┴─────────────┘
+        ┌─────────────────────────┼─────────────────────────┐
+        │                         │                         │
+  MARKET ENTRY              HUMAN READINESS          OPERATIONAL SUPPORT
+        │                         │                         │
+      AVCLP                      HARP                 VORA / AV SIM
+        │                         │                         │
+        └─────────────────────────┼─────────────────────────┘
                                   │
+                         SAFETY & LEARNING
+                                  │
+                              SIR / CAPA
+                                  │
+                                  ▼
                        SAFER AUTONOMY AT SCALE
+```
 
-What each project explores
+### What each project explores
 
-* AVCLP — Autonomous Vehicle City Launch Playbook
-    A framework for approaching autonomous vehicle deployment as an operational ecosystem involving cities, communities, infrastructure, education, and local stakeholders.
-* HARP — Human-Autonomy Readiness Protocol
-    A framework for evaluating whether humans responsible for supervising or supporting autonomous systems are trained, qualified, current, and ready to intervene when needed.
-* SIR — Safety Incident Registry
-    A structured approach to capturing, classifying, and learning from autonomous-system safety incidents and operational events.
-* AV Incident Command Simulator
-    An interactive training concept for practicing decision-making, escalation, communication, and incident response in autonomous-vehicle operations.
-* VORA — Vendor Operations Readiness Assurance
-    A framework for evaluating and maintaining the operational readiness of third-party vendors supporting autonomous-vehicle operations.
+- **AVCLP — Autonomous Vehicle City Launch Playbook**  
+  A framework for proactively approaching autonomous vehicle deployment as an operational ecosystem involving cities, communities, infrastructure, education, and local stakeholders. **It came from a simple question: how do you get communities to actually buy into change?**
 
-These are independent portfolio projects developed from an operations, safety, training, and workforce-readiness perspective.
+- **HARP — Human-Autonomy Readiness Protocol**  
+  A framework for evaluating whether humans responsible for supervising or supporting autonomous systems are trained, qualified, current, and ready to intervene when needed. **This came from a question I kept coming back to: what happens when the people watching highly capable autonomous systems become complacent?**
+
+- **VORA — Vendor & Operational Readiness Assessment**  
+  Explores whether the organizations, vendors, and supporting operational structures surrounding autonomous systems are prepared to perform reliably at scale. **This one actually came from a question during an interview. I knew what I was trying to explain, but I did a horrible job explaining it. I kept thinking about it afterward, and VORA is what eventually came out of that question.**
+
+- **AV Incident Command Simulator**  
+  A lightweight interactive training project exploring decision-making, escalation, coordination, and operational judgment during fictional autonomous-vehicle incidents. **This started with me thinking about how scenario-based training for AV support could be more interactive than traditional slides and classroom discussion.**
+
+- **SIR — Safety Intelligence Registry**  
+  Explores how public safety-event information can be structured and reviewed to identify patterns, recurring risks, and operational lessons. **This came from lessons learned in aviation and ATC: if you're already collecting safety information, how can you make it easier to actually use instead of just storing it?**
+
+- **CAPA-Forge**  
+  An agentic AI study project exploring incident classification, root-cause structuring, uncertainty recognition, and corrective/preventive action drafting in a safety-focused domain. **This grew out of a related question: can AI help turn messy incident information into a more structured starting point for investigation and corrective action without pretending it knows more than it does?**
+
+These are independent portfolio and study projects built from an operations, training, safety, and workforce-readiness perspective. They do not represent the internal systems or procedures of any autonomous vehicle company.
 
 They are not production systems and do not represent the internal tools, processes, or proprietary information of any autonomous-vehicle company.
 
